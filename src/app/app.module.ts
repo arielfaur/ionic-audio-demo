@@ -9,8 +9,11 @@ import { ContactPage } from '../pages/contact/contact';
 import { HomePage } from '../pages/home/home';
 import { TabsPage } from '../pages/tabs/tabs';
 
-import { IonicAudioModule, AudioProvider, WebAudioProvider, audioProviderFactory } from 'ionic-audio';
-import { IonPullupModule } from 'ionic-pullup';
+import { IonicAudioModule, AudioProvider, WebAudioProvider, defaultAudioProviderFactory } from 'ionic-audio';
+
+export function myAudioFactory() {
+  return new WebAudioProvider();
+}
 
 @NgModule({
   declarations: [
@@ -23,8 +26,7 @@ import { IonPullupModule } from 'ionic-pullup';
   imports: [
     IonicModule.forRoot(MyApp),
     BrowserModule,
-    IonicAudioModule.forRoot({provide: AudioProvider, useFactory: audioProviderFactory}), 
-    IonPullupModule
+    IonicAudioModule.forRoot(myAudioFactory) 
   ],
   bootstrap: [IonicApp],
   entryComponents: [
