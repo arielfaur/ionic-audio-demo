@@ -1,20 +1,21 @@
-import { Component } from '@angular/core';
+import { Component, ChangeDetectorRef } from '@angular/core';
 
 import { NavController } from 'ionic-angular';
 
-import { AudioProvider } from 'ionic-audio';
+import { AudioProvider, IAudioTrack, ITrackConstraint } from 'ionic-audio';
 
 @Component({
   selector: 'page-home',
   templateUrl: 'home.html'
 })
 export class HomePage {
-  myTracks: any[];
-  singleTrack: any;
-  allTracks: any[];
-  selectedTrack: number;
+  myTracks: ITrackConstraint[];
+  playlist: ITrackConstraint[] = [];
 
-  constructor(public navCtrl: NavController, private _audioProvider: AudioProvider) {
+  currentIndex: number = -1;
+  currentTrack: ITrackConstraint;
+
+  constructor(public navCtrl: NavController, private _cdRef: ChangeDetectorRef) {
     // plugin won't preload data by default, unless preload property is defined within json object - defaults to 'none'
     this.myTracks = [{
       src: 'https://archive.org/download/JM2013-10-05.flac16/V0/jm2013-10-05-t12-MP3-V0.mp3',
@@ -29,35 +30,45 @@ export class HomePage {
       title: 'Who Says',
       art: 'assets/img/johnmayer.jpg',
       preload: 'metadata' // tell the plugin to preload metadata such as duration for this track,  set to 'none' to turn off
-    }];
+    },
     
-    this.singleTrack = {
+    {
       src: 'https://archive.org/download/swrembel2010-03-07.tlm170.flac16/swrembel2010-03-07s1t05.mp3',
       artist: 'Stephane Wrembel',
       title: 'Stephane Wrembel Live',
       art: 'assets/img/Stephane.jpg',
       preload: 'metadata' // tell the plugin to preload metadata such as duration for this track,  set to 'none' to turn off
-    };
-
+    }];
   }
 
-  ngAfterContentInit() {     
-    // get all tracks managed by AudioProvider so we can control playback via the API
-    this.allTracks = this._audioProvider.tracks; 
+  add(track: ITrackConstraint) {
+    this.playlist.push(track);
   }
-  
-  playSelectedTrack() {
-    // use AudioProvider to control selected track 
-    this._audioProvider.play(this.selectedTrack);
+
+  play(track: ITrackConstraint, index: number) {
+      this.currentTrack = track;
+      this.currentIndex = index;
   }
-  
-  pauseSelectedTrack() {
-     // use AudioProvider to control selected track 
-     this._audioProvider.pause(this.selectedTrack);
+
+  next() {
+    // if there is a next track on the list play it
+    if (this.playlist.length > 0 && this.currentIndex >= 0 && this.currentIndex < this.playlist.length - 1) {
+      let i = this.currentIndex + 1;
+      let track = this.playlist[i];
+      this.play(track, i);
+      this._cdRef.detectChanges();  // needed to ensure UI update
+    } else if (this.currentIndex == -1 && this.playlist.length > 0) {
+      // if no track is playing then start with the first track on the list
+      this.play(this.playlist[0], 0);
+    }
   }
-         
+
   onTrackFinished(track: any) {
-    console.log('Track finished', track)
+    this.next();
+  }
+
+  clear() {
+    this.playlist = [];
   }
 
 }
