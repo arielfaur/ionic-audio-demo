@@ -1,1 +1,416 @@
-webpackJsonp([0],{105:function(n,l){function t(n){return Promise.resolve().then(function(){throw new Error("Cannot find module '"+n+"'.")})}t.keys=function(){return[]},t.resolve=t,n.exports=t,t.id=105},113:function(n,l,t){"use strict";function e(n){return f._34(0,[(n()(),f._12(0,null,null,2,"ion-nav",[],null,null,null,U.b,U.a)),f._11(4374528,null,0,V.a,[[2,B.a],[2,W.a],w.a,K.a,J.a,f.n,f.E,f.M,f.l,C.e,G.a,[2,$.a],E.a,f.o],{root:[0,"root"]},null),f._29(6144,null,Z.a,null,[V.a]),(n()(),f._32(null,["\n"]))],function(n,l){n(l,1,0,l.component.rootPage)},null)}function _(n){return f._34(0,[(n()(),f._12(0,null,null,39,"audio-track",[],null,null,null,X.b,X.a)),f._11(901120,[["audio",4]],0,nn.a,[ln.a],{track:[0,"track"]},null),(n()(),f._32(0,["\n      "])),(n()(),f._12(0,null,0,35,"ion-item",[["class","item item-block"]],null,null,null,tn.b,tn.a)),f._11(1097728,null,3,en.a,[F.a,K.a,f.n,f.M,[2,_n.a]],null,null),f._30(335544320,1,{contentLabel:0}),f._30(603979776,2,{_buttons:1}),f._30(603979776,3,{_icons:1}),f._11(16384,null,0,un.a,[],null,null),(n()(),f._32(2,["\n        "])),(n()(),f._12(0,null,0,11,"ion-thumbnail",[["item-left",""]],null,null,null,null,null)),f._11(16384,null,0,an.a,[],null,null),(n()(),f._32(null,["\n          "])),(n()(),f._12(0,null,null,0,"img",[],[[8,"src",4]],null,null,null,null)),(n()(),f._32(null,["\n          "])),(n()(),f._12(0,null,null,5,"audio-track-play",[["dark",""]],null,null,null,on.b,on.a)),f._11(49152,null,0,rn.a,[f.n],{audioTrack:[0,"audioTrack"],dark:[1,"dark"]},null),(n()(),f._32(0,["\n            "])),(n()(),f._12(0,null,0,1,"ion-spinner",[],[[2,"spinner-paused",null]],null,null,sn.b,sn.a)),f._11(114688,null,0,cn.a,[K.a,f.n,f.M],null,null),(n()(),f._32(0,["\n          "])),(n()(),f._32(null,["\n        "])),(n()(),f._32(2,["\n        "])),(n()(),f._12(0,null,3,14,"div",[["item-content",""],["style","width:100%"]],null,null,null,null,null)),(n()(),f._32(null,["\n          "])),(n()(),f._12(0,null,null,5,"p",[],null,null,null,null,null)),(n()(),f._12(0,null,null,1,"strong",[],null,null,null,null,null)),(n()(),f._32(null,["",""])),(n()(),f._32(null,[" ⚬ "])),(n()(),f._12(0,null,null,1,"em",[],null,null,null,null,null)),(n()(),f._32(null,["",""])),(n()(),f._32(null,["\n          "])),(n()(),f._12(0,null,null,1,"audio-track-progress-bar",[["duration",""],["progress",""]],null,null,null,hn.b,hn.a)),f._11(835584,null,0,pn.a,[],{audioTrack:[0,"audioTrack"],progress:[1,"progress"],duration:[2,"duration"]},null),(n()(),f._32(null,["\n          "])),(n()(),f._12(0,null,null,1,"em",[["style","font-size:.5em"]],null,null,null,null,null)),(n()(),f._32(null,["Track ID: ",""])),(n()(),f._32(null,["\n        "])),(n()(),f._32(2,["\n      "])),(n()(),f._32(0,["\n    "]))],function(n,l){n(l,1,0,l.context.$implicit);n(l,16,0,f._25(l,1),""),n(l,19,0);n(l,33,0,f._25(l,1),"","")},function(n,l){n(l,13,0,f._16(1,"",f._25(l,1).art,"")),n(l,18,0,f._25(l,19)._paused),n(l,27,0,f._25(l,1).title),n(l,30,0,f._25(l,1).artist),n(l,36,0,f._25(l,1).id)})}function u(n){return f._34(0,[(n()(),f._12(0,null,null,10,"ion-header",[],null,null,null,null,null)),f._11(16384,null,0,dn.a,[K.a,f.n,f.M,[2,B.a]],null,null),(n()(),f._32(null,["\n  "])),(n()(),f._12(0,null,null,6,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,fn.b,fn.a)),f._11(49152,null,0,bn.a,[w.a,[2,B.a],[2,W.a],K.a,f.n,f.M],null,null),(n()(),f._32(3,["\n    "])),(n()(),f._12(0,null,3,2,"ion-title",[],null,null,null,mn.b,mn.a)),f._11(49152,null,0,gn.a,[K.a,f.n,f.M,[2,yn.a],[2,bn.a]],null,null),(n()(),f._32(0,["\n      More music\n    "])),(n()(),f._32(3,["\n  "])),(n()(),f._32(null,["\n"])),(n()(),f._32(null,["\n\n"])),(n()(),f._12(0,null,null,9,"ion-content",[["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,Mn.b,Mn.a)),f._11(4374528,null,0,Pn.a,[K.a,J.a,E.a,f.n,f.M,w.a,H.a,f.E,[2,B.a],[2,W.a]],null,null),(n()(),f._32(1,["\n  "])),(n()(),f._12(0,null,1,5,"ion-list",[],null,null,null,null,null)),f._11(16384,null,0,Sn.a,[K.a,f.n,f.M,J.a,C.e,E.a],null,null),(n()(),f._32(null,["\n    "])),(n()(),f._8(16777216,null,null,1,null,_)),f._11(802816,null,0,k.g,[f.W,f.T,f.x],{ngForOf:[0,"ngForOf"]},null),(n()(),f._32(null,["\n  "])),(n()(),f._32(1,["\n"]))],function(n,l){n(l,19,0,l.component.myTracks)},function(n,l){n(l,3,0,f._25(l,4)._hidden,f._25(l,4)._sbPadding),n(l,12,0,f._25(l,13).statusbarPadding,f._25(l,13)._hasRefresher)})}function i(n){return f._34(0,[(n()(),f._12(0,null,null,10,"ion-header",[],null,null,null,null,null)),f._11(16384,null,0,dn.a,[K.a,f.n,f.M,[2,B.a]],null,null),(n()(),f._32(null,["\n  "])),(n()(),f._12(0,null,null,6,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,fn.b,fn.a)),f._11(49152,null,0,bn.a,[w.a,[2,B.a],[2,W.a],K.a,f.n,f.M],null,null),(n()(),f._32(3,["\n    "])),(n()(),f._12(0,null,3,2,"ion-title",[],null,null,null,mn.b,mn.a)),f._11(49152,null,0,gn.a,[K.a,f.n,f.M,[2,yn.a],[2,bn.a]],null,null),(n()(),f._32(0,["\n      Contact\n    "])),(n()(),f._32(3,["\n  "])),(n()(),f._32(null,["\n"])),(n()(),f._32(null,["\n\n"])),(n()(),f._12(0,null,null,25,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,Mn.b,Mn.a)),f._11(4374528,null,0,Pn.a,[K.a,J.a,E.a,f.n,f.M,w.a,H.a,f.E,[2,B.a],[2,W.a]],null,null),(n()(),f._32(1,["\n  "])),(n()(),f._12(0,null,1,21,"ion-list",[],null,null,null,null,null)),f._11(16384,null,0,Sn.a,[K.a,f.n,f.M,J.a,C.e,E.a],null,null),(n()(),f._32(null,["\n    "])),(n()(),f._12(0,null,null,6,"ion-list-header",[["class","item"]],null,null,null,tn.b,tn.a)),f._11(1097728,null,3,en.a,[F.a,K.a,f.n,f.M,[2,_n.a]],null,null),f._30(335544320,1,{contentLabel:0}),f._30(603979776,2,{_buttons:1}),f._30(603979776,3,{_icons:1}),f._11(16384,null,0,En.a,[K.a,f.M,f.n,[8,null]],null,null),(n()(),f._32(2,["Follow us on Twitter"])),(n()(),f._32(null,["\n    "])),(n()(),f._12(0,null,null,9,"ion-item",[["class","item item-block"]],null,null,null,tn.b,tn.a)),f._11(1097728,null,3,en.a,[F.a,K.a,f.n,f.M,[2,_n.a]],null,null),f._30(335544320,4,{contentLabel:0}),f._30(603979776,5,{_buttons:1}),f._30(603979776,6,{_icons:1}),f._11(16384,null,0,un.a,[],null,null),(n()(),f._32(2,["\n      "])),(n()(),f._12(0,null,0,1,"ion-icon",[["item-left",""],["name","ionic"],["role","img"]],[[2,"hide",null]],null,null,null,null)),f._11(147456,[[6,4]],0,An.a,[K.a,f.n,f.M],{name:[0,"name"]},null),(n()(),f._32(2,["\n      @ionicframework\n    "])),(n()(),f._32(null,["\n  "])),(n()(),f._32(1,["\n"])),(n()(),f._32(null,["\n"]))],function(n,l){n(l,34,0,"ionic")},function(n,l){n(l,3,0,f._25(l,4)._hidden,f._25(l,4)._sbPadding),n(l,12,0,f._25(l,13).statusbarPadding,f._25(l,13)._hasRefresher),n(l,33,0,f._25(l,34)._hidden)})}function a(n){return f._34(0,[(n()(),f._12(0,null,null,22,"ion-item",[["class","item item-block"]],null,null,null,tn.b,tn.a)),f._11(1097728,null,3,en.a,[F.a,K.a,f.n,f.M,[2,_n.a]],null,null),f._30(335544320,1,{contentLabel:0}),f._30(603979776,2,{_buttons:1}),f._30(603979776,3,{_icons:1}),f._11(16384,null,0,un.a,[],null,null),(n()(),f._32(2,["\n      "])),(n()(),f._12(0,null,0,4,"ion-thumbnail",[["item-left",""]],null,null,null,null,null)),f._11(16384,null,0,an.a,[],null,null),(n()(),f._32(null,["\n        "])),(n()(),f._12(0,null,null,0,"img",[],[[8,"src",4]],null,null,null,null)),(n()(),f._32(null,["\n      "])),(n()(),f._32(2,["\n      "])),(n()(),f._12(0,null,2,1,"h2",[],null,null,null,null,null)),(n()(),f._32(null,["",""])),(n()(),f._32(2,["\n      "])),(n()(),f._12(0,null,2,2,"button",[["ion-button",""]],null,[[null,"click"]],function(n,l,t){var e=!0,_=n.component;return"click"===l&&(e=!1!==(_.currentTrack=n.context.$implicit)&&e),e},Dn.b,Dn.a)),f._11(1097728,[[2,4]],0,vn.a,[[8,""],K.a,f.n,f.M],null,null),(n()(),f._32(0,["Play"])),(n()(),f._12(0,null,2,2,"button",[["ion-button",""]],null,[[null,"click"]],function(n,l,t){var e=!0,_=n.component;return"click"===l&&(e=!1!==_.add(n.context.$implicit)&&e),e},Dn.b,Dn.a)),f._11(1097728,[[2,4]],0,vn.a,[[8,""],K.a,f.n,f.M],null,null),(n()(),f._32(0,["Add"])),(n()(),f._32(2,["\n    "]))],null,function(n,l){n(l,10,0,f._16(1,"",l.context.$implicit.art,"")),n(l,14,0,l.context.$implicit.title)})}function o(n){return f._34(0,[(n()(),f._12(0,null,null,2,"div",[],null,null,null,null,null)),(n()(),f._12(0,null,null,1,"em",[],null,null,null,null,null)),(n()(),f._32(null,["",""]))],null,function(n,l){n(l,2,0,null==f._25(l.parent,29)?null:f._25(l.parent,29).title)})}function r(n){return f._34(0,[(n()(),f._12(0,null,null,1,"ion-spinner",[],[[2,"spinner-paused",null]],null,null,sn.b,sn.a)),f._11(114688,null,0,cn.a,[K.a,f.n,f.M],null,null)],function(n,l){n(l,1,0)},function(n,l){n(l,0,0,f._25(l,1)._paused)})}function s(n){return f._34(0,[(n()(),f._12(0,null,null,19,"ion-item",[["class","item item-block"]],null,null,null,tn.b,tn.a)),f._11(1097728,null,3,en.a,[F.a,K.a,f.n,f.M,[2,_n.a]],null,null),f._30(335544320,7,{contentLabel:0}),f._30(603979776,8,{_buttons:1}),f._30(603979776,9,{_icons:1}),f._11(16384,null,0,un.a,[],null,null),(n()(),f._32(2,["\n      "])),(n()(),f._12(0,null,2,1,"h2",[],null,null,null,null,null)),(n()(),f._32(null,["",""])),(n()(),f._32(2,["\n      "])),(n()(),f._12(0,null,2,1,"p",[],null,null,null,null,null)),(n()(),f._32(null,["",""])),(n()(),f._32(2,["\n      "])),(n()(),f._12(0,null,4,5,"button",[["icon-only",""],["ion-button",""],["item-end",""]],null,[[null,"click"]],function(n,l,t){var e=!0,_=n.component;return"click"===l&&(e=!1!==_.play(n.context.$implicit,n.context.index)&&e),e},Dn.b,Dn.a)),f._11(1097728,[[8,4]],0,vn.a,[[8,""],K.a,f.n,f.M],null,null),(n()(),f._32(0,["\n          "])),(n()(),f._12(0,null,0,1,"ion-icon",[["name","play"],["role","img"]],[[2,"hide",null]],null,null,null,null)),f._11(147456,null,0,An.a,[K.a,f.n,f.M],{name:[0,"name"]},null),(n()(),f._32(0,["\n        "])),(n()(),f._32(2,["\n    "]))],function(n,l){n(l,17,0,"play")},function(n,l){n(l,8,0,l.context.$implicit.title),n(l,11,0,l.context.$implicit.artist),n(l,16,0,f._25(l,17)._hidden)})}function c(n){return f._34(0,[(n()(),f._12(0,null,null,17,"ion-list",[],null,null,null,null,null)),f._11(16384,null,0,Sn.a,[K.a,f.n,f.M,J.a,C.e,E.a],null,null),(n()(),f._32(null,["\n    "])),(n()(),f._12(0,null,null,10,"ion-list-header",[["class","item"],["inset",""],["no-lines",""]],null,null,null,tn.b,tn.a)),f._11(1097728,null,3,en.a,[F.a,K.a,f.n,f.M,[2,_n.a]],null,null),f._30(335544320,4,{contentLabel:0}),f._30(603979776,5,{_buttons:1}),f._30(603979776,6,{_icons:1}),f._11(16384,null,0,En.a,[K.a,f.M,f.n,[8,null]],null,null),(n()(),f._32(2,["\n      PLAYLIST\n      "])),(n()(),f._12(0,null,4,2,"button",[["clear",""],["ion-button",""],["item-right",""]],null,[[null,"click"]],function(n,l,t){var e=!0,_=n.component;return"click"===l&&(e=!1!==_.clear()&&e),e},Dn.b,Dn.a)),f._11(1097728,[[5,4]],0,vn.a,[[8,""],K.a,f.n,f.M],{clear:[0,"clear"]},null),(n()(),f._32(0,["Clear"])),(n()(),f._32(2,["\n    "])),(n()(),f._32(null,["\n    "])),(n()(),f._8(16777216,null,null,1,null,s)),f._11(802816,null,0,k.g,[f.W,f.T,f.x],{ngForOf:[0,"ngForOf"]},null),(n()(),f._32(null,["\n  "]))],function(n,l){var t=l.component;n(l,11,0,""),n(l,16,0,t.playlist)},null)}function h(n){return f._34(0,[(n()(),f._12(0,null,null,10,"ion-header",[],null,null,null,null,null)),f._11(16384,null,0,dn.a,[K.a,f.n,f.M,[2,B.a]],null,null),(n()(),f._32(null,["\n  "])),(n()(),f._12(0,null,null,6,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,fn.b,fn.a)),f._11(49152,null,0,bn.a,[w.a,[2,B.a],[2,W.a],K.a,f.n,f.M],null,null),(n()(),f._32(3,["\n    "])),(n()(),f._12(0,null,3,2,"ion-title",[],null,null,null,mn.b,mn.a)),f._11(49152,null,0,gn.a,[K.a,f.n,f.M,[2,yn.a],[2,bn.a]],null,null),(n()(),f._32(0,["Home"])),(n()(),f._32(3,["\n  "])),(n()(),f._32(null,["\n"])),(n()(),f._32(null,["\n\n"])),(n()(),f._12(0,null,null,52,"ion-content",[["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,Mn.b,Mn.a)),f._11(4374528,null,0,Pn.a,[K.a,J.a,E.a,f.n,f.M,w.a,H.a,f.E,[2,B.a],[2,W.a]],null,null),(n()(),f._32(1,["\n  "])),(n()(),f._12(0,null,1,1,"h2",[],null,null,null,null,null)),(n()(),f._32(null,["Ionic Audio for Angular 4 / Ionic 3"])),(n()(),f._32(1,["\n  "])),(n()(),f._12(0,null,1,1,"p",[],null,null,null,null,null)),(n()(),f._32(null,["\n    This sample project shows you how simple it is to work with the ionic-audio module.\n  "])),(n()(),f._32(1,["\n\n  "])),(n()(),f._12(0,null,1,5,"ion-list",[],null,null,null,null,null)),f._11(16384,null,0,Sn.a,[K.a,f.n,f.M,J.a,C.e,E.a],null,null),(n()(),f._32(null,["\n    "])),(n()(),f._8(16777216,null,null,1,null,a)),f._11(802816,null,0,k.g,[f.W,f.T,f.x],{ngForOf:[0,"ngForOf"]},null),(n()(),f._32(null,["\n  "])),(n()(),f._32(1,["\n\n  "])),(n()(),f._12(0,null,1,32,"audio-track",[],null,[[null,"onFinish"]],function(n,l,t){var e=!0,_=n.component;return"onFinish"===l&&(e=!1!==_.onTrackFinished(t)&&e),e},X.b,X.a)),f._11(901120,[["audioTrack",4]],0,nn.a,[ln.a],{track:[0,"track"],autoplay:[1,"autoplay"]},{onFinish:"onFinish"}),(n()(),f._32(0,["\n    "])),(n()(),f._12(0,null,0,19,"div",[["style","display: flex"]],null,null,null,null,null)),(n()(),f._32(null,["\n      "])),(n()(),f._12(0,null,null,3,"button",[["icon-only",""],["ion-button",""]],null,[[null,"click"]],function(n,l,t){var e=!0,_=n.component;return"click"===l&&(e=!1!==(f._25(n,29).canPlay?f._25(n,29).play():_.next())&&e),e},Dn.b,Dn.a)),f._11(1097728,null,0,vn.a,[[8,""],K.a,f.n,f.M],null,null),(n()(),f._12(0,null,0,1,"ion-icon",[["name","play"],["role","img"]],[[2,"hide",null]],null,null,null,null)),f._11(147456,null,0,An.a,[K.a,f.n,f.M],{name:[0,"name"]},null),(n()(),f._32(null,["\n      "])),(n()(),f._12(0,null,null,3,"button",[["icon-only",""],["ion-button",""]],null,[[null,"click"]],function(n,l,t){var e=!0;return"click"===l&&(e=!1!==f._25(n,29).pause()&&e),e},Dn.b,Dn.a)),f._11(1097728,null,0,vn.a,[[8,""],K.a,f.n,f.M],null,null),(n()(),f._12(0,null,0,1,"ion-icon",[["name","pause"],["role","img"]],[[2,"hide",null]],null,null,null,null)),f._11(147456,null,0,An.a,[K.a,f.n,f.M],{name:[0,"name"]},null),(n()(),f._32(null,["\n      "])),(n()(),f._12(0,null,null,3,"button",[["icon-only",""],["ion-button",""]],null,[[null,"click"]],function(n,l,t){var e=!0,_=n.component;return"click"===l&&(e=!1!==_.next()&&e),e},Dn.b,Dn.a)),f._11(1097728,null,0,vn.a,[[8,""],K.a,f.n,f.M],null,null),(n()(),f._12(0,null,0,1,"ion-icon",[["name","skip-forward"],["role","img"]],[[2,"hide",null]],null,null,null,null)),f._11(147456,null,0,An.a,[K.a,f.n,f.M],{name:[0,"name"]},null),(n()(),f._32(null,["\n      "])),(n()(),f._12(0,null,null,1,"audio-track-progress-bar",[["duration",""],["progress",""],["style","width: 100%; margin: 0 10px"]],null,null,null,hn.b,hn.a)),f._11(835584,null,0,pn.a,[],{audioTrack:[0,"audioTrack"],progress:[1,"progress"],duration:[2,"duration"]},null),(n()(),f._32(null,["\n    "])),(n()(),f._32(0,["\n    "])),(n()(),f._12(0,null,0,7,"div",[["style","display: flex; justify-content: center; height: 50px"]],null,null,null,null,null)),(n()(),f._32(null,["\n      "])),(n()(),f._8(16777216,null,null,1,null,o)),f._11(16384,null,0,k.h,[f.W,f.T],{ngIf:[0,"ngIf"]},null),(n()(),f._32(null,["\n      "])),(n()(),f._8(16777216,null,null,1,null,r)),f._11(16384,null,0,k.h,[f.W,f.T],{ngIf:[0,"ngIf"]},null),(n()(),f._32(null,["\n    "])),(n()(),f._32(0,["\n  "])),(n()(),f._32(1,["\n\n  "])),(n()(),f._8(16777216,null,1,1,null,c)),f._11(16384,null,0,k.h,[f.W,f.T],{ngIf:[0,"ngIf"]},null),(n()(),f._32(1,["\n\n"]))],function(n,l){var t=l.component;n(l,25,0,t.myTracks);n(l,29,0,t.currentTrack,!0);n(l,36,0,"play");n(l,41,0,"pause");n(l,46,0,"skip-forward");n(l,49,0,f._25(l,29),"",""),n(l,55,0,f._25(l,29)&&f._25(l,29).hasLoaded),n(l,58,0,f._25(l,29)&&f._25(l,29).isLoading),n(l,63,0,t.playlist.length>0)},function(n,l){n(l,3,0,f._25(l,4)._hidden,f._25(l,4)._sbPadding),n(l,12,0,f._25(l,13).statusbarPadding,f._25(l,13)._hasRefresher),n(l,35,0,f._25(l,36)._hidden),n(l,40,0,f._25(l,41)._hidden),n(l,45,0,f._25(l,46)._hidden)})}function p(n){return f._34(0,[(n()(),f._12(0,null,null,12,"ion-tabs",[],null,null,null,Fn.b,Fn.a)),f._11(4374528,null,0,Nn.a,[[2,W.a],[2,B.a],w.a,K.a,f.n,J.a,f.M,$.a,H.a],null,null),f._29(6144,null,Z.a,null,[Nn.a]),(n()(),f._32(0,["\n  "])),(n()(),f._12(0,null,0,1,"ion-tab",[["role","tabpanel"],["tabIcon","home"],["tabTitle","Home"]],[[1,"id",0],[1,"aria-labelledby",0]],null,null,Hn.b,Hn.a)),f._11(245760,null,0,xn.a,[Nn.a,w.a,K.a,J.a,f.n,f.E,f.M,f.l,f.i,C.e,G.a,[2,$.a],E.a,f.o],{root:[0,"root"],tabTitle:[1,"tabTitle"],tabIcon:[2,"tabIcon"]},null),(n()(),f._32(0,["\n  "])),(n()(),f._12(0,null,0,1,"ion-tab",[["role","tabpanel"],["tabIcon","musical-note"],["tabTitle","More music"]],[[1,"id",0],[1,"aria-labelledby",0]],null,null,Hn.b,Hn.a)),f._11(245760,null,0,xn.a,[Nn.a,w.a,K.a,J.a,f.n,f.E,f.M,f.l,f.i,C.e,G.a,[2,$.a],E.a,f.o],{root:[0,"root"],tabTitle:[1,"tabTitle"],tabIcon:[2,"tabIcon"]},null),(n()(),f._32(0,["\n  "])),(n()(),f._12(0,null,0,1,"ion-tab",[["role","tabpanel"],["tabIcon","contacts"],["tabTitle","Contact"]],[[1,"id",0],[1,"aria-labelledby",0]],null,null,Hn.b,Hn.a)),f._11(245760,null,0,xn.a,[Nn.a,w.a,K.a,J.a,f.n,f.E,f.M,f.l,f.i,C.e,G.a,[2,$.a],E.a,f.o],{root:[0,"root"],tabTitle:[1,"tabTitle"],tabIcon:[2,"tabIcon"]},null),(n()(),f._32(0,["\n"])),(n()(),f._32(null,["\n"]))],function(n,l){var t=l.component;n(l,5,0,t.tab1Root,"Home","home");n(l,8,0,t.tab2Root,"More music","musical-note");n(l,11,0,t.tab3Root,"Contact","contacts")},function(n,l){n(l,4,0,f._25(l,5)._tabId,f._25(l,5)._btnId),n(l,7,0,f._25(l,8)._tabId,f._25(l,8)._btnId),n(l,10,0,f._25(l,11)._tabId,f._25(l,11)._btnId)})}Object.defineProperty(l,"__esModule",{value:!0});var d=t(22),f=t(0),b=(t(30),t(55)),m=t(56),g=function(){function n(n,l){this.navCtrl=n,this._cdRef=l,this.playlist=[],this.currentIndex=-1,this.myTracks=[{src:"https://archive.org/download/JM2013-10-05.flac16/V0/jm2013-10-05-t12-MP3-V0.mp3",artist:"John Mayer",title:"Why Georgia",art:"assets/img/johnmayer.jpg",preload:"metadata"},{src:"https://archive.org/download/JM2013-10-05.flac16/V0/jm2013-10-05-t30-MP3-V0.mp3",artist:"John Mayer",title:"Who Says",art:"assets/img/johnmayer.jpg",preload:"metadata"},{src:"https://archive.org/download/swrembel2010-03-07.tlm170.flac16/swrembel2010-03-07s1t05.mp3",artist:"Stephane Wrembel",title:"Stephane Wrembel Live",art:"assets/img/Stephane.jpg",preload:"metadata"}]}return n.prototype.add=function(n){this.playlist.push(n)},n.prototype.play=function(n,l){this.currentTrack=n,this.currentIndex=l},n.prototype.next=function(){if(this.playlist.length>0&&this.currentIndex>=0&&this.currentIndex<this.playlist.length-1){var n=this.currentIndex+1,l=this.playlist[n];this.play(l,n),this._cdRef.detectChanges()}else-1==this.currentIndex&&this.playlist.length>0&&this.play(this.playlist[0],0)},n.prototype.onTrackFinished=function(n){this.next()},n.prototype.clear=function(){this.playlist=[]},n}(),y=function(){return function(n){this.navCtrl=n,this.myTracks=[{src:"https://archive.org/download/JM2013-10-05.flac16/V0/jm2013-10-05-t12-MP3-V0.mp3",artist:"John Mayer",title:"Why Georgia",art:"assets/img/johnmayer.jpg",preload:"metadata"},{src:"https://archive.org/download/JM2013-10-05.flac16/V0/jm2013-10-05-t30-MP3-V0.mp3",artist:"John Mayer",title:"Who Says",art:"assets/img/johnmayer.jpg",preload:"metadata"},{src:"https://archive.org/download/swrembel2010-03-07.tlm170.flac16/swrembel2010-03-07s1t05.mp3",artist:"Stephane Wrembel",title:"Stephane Wrembel Live",art:"assets/img/Stephane.jpg",preload:"metadata"}]}}(),M=function(){return function(n){this.navCtrl=n}}(),P=function(){return function(){this.tab1Root=g,this.tab2Root=y,this.tab3Root=M}}(),S=function(){return function(n,l,t){this.rootPage=P,n.ready().then(function(){t.styleDefault(),l.hide()})}}(),T=(t(142),function(){return function(){}}()),k=t(10),I=t(101),E=t(5),A=t(36),w=t(4),C=t(8),L=t(72),D=t(103),v=t(102),O=t(108),j=t(71),R=t(68),F=t(18),N=t(50),H=t(14),x=t(67),G=t(15),z=t(143),U=t(144),V=t(49),B=t(6),W=t(11),K=t(1),J=t(3),$=t(12),Z=t(19),q=[],Y=f._10({encapsulation:2,styles:q,data:{}}),Q=f._9("ng-component",S,function(n){return f._34(0,[(n()(),f._12(0,null,null,1,"ng-component",[],null,null,null,e,Y)),f._11(49152,null,0,S,[J.a,b.a,m.a],null,null)],null,null)},{},{},[]),X=t(110),nn=t(42),ln=t(21),tn=t(76),en=t(31),_n=t(26),un=t(38),an=t(54),on=t(145),rn=t(57),sn=t(111),cn=t(40),hn=t(112),pn=t(43),dn=t(41),fn=t(78),bn=t(20),mn=t(79),gn=t(33),yn=t(27),Mn=t(80),Pn=t(25),Sn=t(39),Tn=[],kn=f._10({encapsulation:2,styles:Tn,data:{}}),In=f._9("page-about",y,function(n){return f._34(0,[(n()(),f._12(0,null,null,1,"page-about",[],null,null,null,u,kn)),f._11(49152,null,0,y,[W.a],null,null)],null,null)},{},{},[]),En=t(48),An=t(16),wn=[],Cn=f._10({encapsulation:2,styles:wn,data:{}}),Ln=f._9("page-contact",M,function(n){return f._34(0,[(n()(),f._12(0,null,null,1,"page-contact",[],null,null,null,i,Cn)),f._11(49152,null,0,M,[W.a],null,null)],null,null)},{},{},[]),Dn=t(77),vn=t(24),On=[],jn=f._10({encapsulation:2,styles:On,data:{}}),Rn=f._9("page-home",g,function(n){return f._34(0,[(n()(),f._12(0,null,null,1,"page-home",[],null,null,null,h,jn)),f._11(49152,null,0,g,[W.a,f.i],null,null)],null,null)},{},{},[]),Fn=t(146),Nn=t(32),Hn=t(147),xn=t(51),Gn=[],zn=f._10({encapsulation:2,styles:Gn,data:{}}),Un=f._9("ng-component",P,function(n){return f._34(0,[(n()(),f._12(0,null,null,1,"ng-component",[],null,null,null,p,zn)),f._11(49152,null,0,P,[],null,null)],null,null)},{},{},[]),Vn=t(37),Bn=t(69),Wn=t(104),Kn=t(70),Jn=t(35),$n=this&&this.__extends||function(){var n=Object.setPrototypeOf||{__proto__:[]}instanceof Array&&function(n,l){n.__proto__=l}||function(n,l){for(var t in l)l.hasOwnProperty(t)&&(n[t]=l[t])};return function(l,t){function e(){this.constructor=l}n(l,t),l.prototype=null===t?Object.create(t):(e.prototype=t.prototype,new e)}}(),Zn=function(n){function l(l){return n.call(this,l,[z.a,Q,In,Ln,Rn,Un],[z.a])||this}return $n(l,n),Object.defineProperty(l.prototype,"_LOCALE_ID_26",{get:function(){return null==this.__LOCALE_ID_26&&(this.__LOCALE_ID_26=f._23(this.parent.get(f.z,null))),this.__LOCALE_ID_26},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_NgLocalization_27",{get:function(){return null==this.__NgLocalization_27&&(this.__NgLocalization_27=new k.i(this._LOCALE_ID_26)),this.__NgLocalization_27},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_APP_ID_28",{get:function(){return null==this.__APP_ID_28&&(this.__APP_ID_28=f._14()),this.__APP_ID_28},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_IterableDiffers_29",{get:function(){return null==this.__IterableDiffers_29&&(this.__IterableDiffers_29=f._20()),this.__IterableDiffers_29},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_KeyValueDiffers_30",{get:function(){return null==this.__KeyValueDiffers_30&&(this.__KeyValueDiffers_30=f._22()),this.__KeyValueDiffers_30},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_DomSanitizer_31",{get:function(){return null==this.__DomSanitizer_31&&(this.__DomSanitizer_31=new d.s(this.parent.get(d.b))),this.__DomSanitizer_31},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_Sanitizer_32",{get:function(){return null==this.__Sanitizer_32&&(this.__Sanitizer_32=this._DomSanitizer_31),this.__Sanitizer_32},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_HAMMER_GESTURE_CONFIG_33",{get:function(){return null==this.__HAMMER_GESTURE_CONFIG_33&&(this.__HAMMER_GESTURE_CONFIG_33=new j.a),this.__HAMMER_GESTURE_CONFIG_33},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_EVENT_MANAGER_PLUGINS_34",{get:function(){return null==this.__EVENT_MANAGER_PLUGINS_34&&(this.__EVENT_MANAGER_PLUGINS_34=[new d.l(this.parent.get(d.b)),new d.p(this.parent.get(d.b)),new d.o(this.parent.get(d.b),this._HAMMER_GESTURE_CONFIG_33)]),this.__EVENT_MANAGER_PLUGINS_34},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_EventManager_35",{get:function(){return null==this.__EventManager_35&&(this.__EventManager_35=new d.e(this._EVENT_MANAGER_PLUGINS_34,this.parent.get(f.E))),this.__EventManager_35},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_ɵDomSharedStylesHost_36",{get:function(){return null==this.__ɵDomSharedStylesHost_36&&(this.__ɵDomSharedStylesHost_36=new d.n(this.parent.get(d.b))),this.__ɵDomSharedStylesHost_36},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_ɵDomRendererFactory2_37",{get:function(){return null==this.__ɵDomRendererFactory2_37&&(this.__ɵDomRendererFactory2_37=new d.m(this._EventManager_35,this._ɵDomSharedStylesHost_36)),this.__ɵDomRendererFactory2_37},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_RendererFactory2_38",{get:function(){return null==this.__RendererFactory2_38&&(this.__RendererFactory2_38=this._ɵDomRendererFactory2_37),this.__RendererFactory2_38},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_ɵSharedStylesHost_39",{get:function(){return null==this.__ɵSharedStylesHost_39&&(this.__ɵSharedStylesHost_39=this._ɵDomSharedStylesHost_36),this.__ɵSharedStylesHost_39},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_Testability_40",{get:function(){return null==this.__Testability_40&&(this.__Testability_40=new f.U(this.parent.get(f.E))),this.__Testability_40},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_Meta_41",{get:function(){return null==this.__Meta_41&&(this.__Meta_41=new d.h(this.parent.get(d.b))),this.__Meta_41},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_Title_42",{get:function(){return null==this.__Title_42&&(this.__Title_42=new d.j(this.parent.get(d.b))),this.__Title_42},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_ɵi_43",{get:function(){return null==this.__ɵi_43&&(this.__ɵi_43=new D.e),this.__ɵi_43},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_FormBuilder_44",{get:function(){return null==this.__FormBuilder_44&&(this.__FormBuilder_44=new D.a),this.__FormBuilder_44},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_Events_49",{get:function(){return null==this.__Events_49&&(this.__Events_49=new R.a),this.__Events_49},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_Form_50",{get:function(){return null==this.__Form_50&&(this.__Form_50=new F.a),this.__Form_50},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_Haptic_51",{get:function(){return null==this.__Haptic_51&&(this.__Haptic_51=new N.a(this._Platform_4)),this.__Haptic_51},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_Keyboard_52",{get:function(){return null==this.__Keyboard_52&&(this.__Keyboard_52=new H.a(this._Config_5,this._Platform_4,this.parent.get(f.E),this._DomController_6)),this.__Keyboard_52},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_LocationStrategy_54",{get:function(){return null==this.__LocationStrategy_54&&(this.__LocationStrategy_54=v.b(this.parent.get(k.m),this._APP_BASE_HREF_46,this._Config_5)),this.__LocationStrategy_54},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_Location_55",{get:function(){return null==this.__Location_55&&(this.__Location_55=new k.d(this._LocationStrategy_54)),this.__Location_55},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_UrlSerializer_56",{get:function(){return null==this.__UrlSerializer_56&&(this.__UrlSerializer_56=Vn.d(this._App_8,this._DeepLinkConfigToken_10)),this.__UrlSerializer_56},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_DeepLinker_57",{get:function(){return null==this.__DeepLinker_57&&(this.__DeepLinker_57=$.b(this._App_8,this._UrlSerializer_56,this._Location_55,this._ModuleLoader_13,this.componentFactoryResolver)),this.__DeepLinker_57},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_TapClick_61",{get:function(){return null==this.__TapClick_61&&(this.__TapClick_61=new x.a(this._Config_5,this._Platform_4,this._DomController_6,this._App_8,this._GestureController_9)),this.__TapClick_61},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_TransitionController_63",{get:function(){return null==this.__TransitionController_63&&(this.__TransitionController_63=new G.a(this._Platform_4,this._Config_5)),this.__TransitionController_63},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_AudioProvider_64",{get:function(){return null==this.__AudioProvider_64&&(this.__AudioProvider_64=ln.d()),this.__AudioProvider_64},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_SplashScreen_65",{get:function(){return null==this.__SplashScreen_65&&(this.__SplashScreen_65=new b.a),this.__SplashScreen_65},enumerable:!0,configurable:!0}),Object.defineProperty(l.prototype,"_StatusBar_66",{get:function(){return null==this.__StatusBar_66&&(this.__StatusBar_66=new m.a),this.__StatusBar_66},enumerable:!0,configurable:!0}),l.prototype.createInternal=function(){return this._CommonModule_0=new k.b,this._ErrorHandler_1=new I.a,this._ConfigToken_2=null,this._PlatformConfigToken_3=Bn.b(),this._Platform_4=J.b(this.parent.get(d.b),this._PlatformConfigToken_3,this.parent.get(f.E)),this._Config_5=K.c(this._ConfigToken_2,this._Platform_4),this._DomController_6=new E.a(this._Platform_4),this._MenuController_7=new A.a,this._App_8=new w.a(this._Config_5,this._Platform_4,this._MenuController_7),this._GestureController_9=new C.e(this._App_8),this._DeepLinkConfigToken_10=null,this._Compiler_11=new f.j,this._NgModuleLoader_12=new L.a(this._Compiler_11),this._ModuleLoader_13=Wn.c(this._NgModuleLoader_12,this),this._APP_INITIALIZER_14=[f._26,d.r(this.parent.get(d.i,null),this.parent.get(f.D,null)),Kn.a(this._Config_5),R.b(this._Platform_4,this._DomController_6),x.b(this._Config_5,this._Platform_4,this._DomController_6,this._App_8,this._GestureController_9),Wn.d(this._Config_5,this._DeepLinkConfigToken_10,this._ModuleLoader_13,this.parent.get(f.E))],this._ApplicationInitStatus_15=new f.d(this._APP_INITIALIZER_14),this._ɵf_16=new f._13(this.parent.get(f.E),this.parent.get(f._6),this,this._ErrorHandler_1,this.componentFactoryResolver,this._ApplicationInitStatus_15),this._ApplicationRef_17=this._ɵf_16,this._ApplicationModule_18=new f.e(this._ApplicationRef_17),this._BrowserModule_19=new d.a(this.parent.get(d.a,null)),this._ɵba_20=new D.d,this._FormsModule_21=new D.b,this._ReactiveFormsModule_22=new D.c,this._IonicModule_23=new v.a,this._IonicAudioModule_24=new O.a,this._AppModule_25=new T,this._AppRootToken_45=S,this._APP_BASE_HREF_46="/",this._AppModule_25},l.prototype.getInternal=function(n,l){return n===k.b?this._CommonModule_0:n===f.o?this._ErrorHandler_1:n===K.b?this._ConfigToken_2:n===Bn.a?this._PlatformConfigToken_3:n===J.a?this._Platform_4:n===K.a?this._Config_5:n===E.a?this._DomController_6:n===A.a?this._MenuController_7:n===w.a?this._App_8:n===C.e?this._GestureController_9:n===Vn.a?this._DeepLinkConfigToken_10:n===f.j?this._Compiler_11:n===L.a?this._NgModuleLoader_12:n===Wn.b?this._ModuleLoader_13:n===f.c?this._APP_INITIALIZER_14:n===f.d?this._ApplicationInitStatus_15:n===f._13?this._ɵf_16:n===f.f?this._ApplicationRef_17:n===f.e?this._ApplicationModule_18:n===d.a?this._BrowserModule_19:n===D.d?this._ɵba_20:n===D.b?this._FormsModule_21:n===D.c?this._ReactiveFormsModule_22:n===v.a?this._IonicModule_23:n===O.a?this._IonicAudioModule_24:n===T?this._AppModule_25:n===f.z?this._LOCALE_ID_26:n===k.j?this._NgLocalization_27:n===f.b?this._APP_ID_28:n===f.x?this._IterableDiffers_29:n===f.y?this._KeyValueDiffers_30:n===d.c?this._DomSanitizer_31:n===f.P?this._Sanitizer_32:n===d.f?this._HAMMER_GESTURE_CONFIG_33:n===d.d?this._EVENT_MANAGER_PLUGINS_34:n===d.e?this._EventManager_35:n===d.n?this._ɵDomSharedStylesHost_36:n===d.m?this._ɵDomRendererFactory2_37:n===f.N?this._RendererFactory2_38:n===d.q?this._ɵSharedStylesHost_39:n===f.U?this._Testability_40:n===d.h?this._Meta_41:n===d.j?this._Title_42:n===D.e?this._ɵi_43:n===D.a?this._FormBuilder_44:n===Jn.a?this._AppRootToken_45:n===k.a?this._APP_BASE_HREF_46:n===R.a?this._Events_49:n===F.a?this._Form_50:n===N.a?this._Haptic_51:n===H.a?this._Keyboard_52:n===k.e?this._LocationStrategy_54:n===k.d?this._Location_55:n===Vn.b?this._UrlSerializer_56:n===$.a?this._DeepLinker_57:n===x.a?this._TapClick_61:n===G.a?this._TransitionController_63:n===ln.a?this._AudioProvider_64:n===b.a?this._SplashScreen_65:n===m.a?this._StatusBar_66:l},l.prototype.destroyInternal=function(){this._ɵf_16.ngOnDestroy(),this.__ɵDomSharedStylesHost_36&&this._ɵDomSharedStylesHost_36.ngOnDestroy()},l}(f._7),qn=new f.B(Zn,T);Object(f._0)(),Object(d.k)().bootstrapModuleFactory(qn)},89:function(n,l){function t(n){return Promise.resolve().then(function(){throw new Error("Cannot find module '"+n+"'.")})}t.keys=function(){return[]},t.resolve=t,n.exports=t,t.id=89}},[113]);
+webpackJsonp([0],{
+
+/***/ 109:
+/***/ (function(module, exports) {
+
+function webpackEmptyAsyncContext(req) {
+	// Here Promise.resolve().then() is used instead of new Promise() to prevent
+	// uncatched exception popping up in devtools
+	return Promise.resolve().then(function() {
+		throw new Error("Cannot find module '" + req + "'.");
+	});
+}
+webpackEmptyAsyncContext.keys = function() { return []; };
+webpackEmptyAsyncContext.resolve = webpackEmptyAsyncContext;
+module.exports = webpackEmptyAsyncContext;
+webpackEmptyAsyncContext.id = 109;
+
+/***/ }),
+
+/***/ 150:
+/***/ (function(module, exports) {
+
+function webpackEmptyAsyncContext(req) {
+	// Here Promise.resolve().then() is used instead of new Promise() to prevent
+	// uncatched exception popping up in devtools
+	return Promise.resolve().then(function() {
+		throw new Error("Cannot find module '" + req + "'.");
+	});
+}
+webpackEmptyAsyncContext.keys = function() { return []; };
+webpackEmptyAsyncContext.resolve = webpackEmptyAsyncContext;
+module.exports = webpackEmptyAsyncContext;
+webpackEmptyAsyncContext.id = 150;
+
+/***/ }),
+
+/***/ 194:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return TabsPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__home_home__ = __webpack_require__(195);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__about_about__ = __webpack_require__(196);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__contact_contact__ = __webpack_require__(203);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+var TabsPage = (function () {
+    function TabsPage() {
+        // this tells the tabs component which Pages
+        // should be each tab's root Page
+        this.tab1Root = __WEBPACK_IMPORTED_MODULE_1__home_home__["a" /* HomePage */];
+        this.tab2Root = __WEBPACK_IMPORTED_MODULE_2__about_about__["a" /* AboutPage */];
+        this.tab3Root = __WEBPACK_IMPORTED_MODULE_3__contact_contact__["a" /* ContactPage */];
+    }
+    return TabsPage;
+}());
+TabsPage = __decorate([
+    Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"C:\Users\ariel\Projects\ionic-audio-demo\src\pages\tabs\tabs.html"*/'<ion-tabs>\n\n  <ion-tab [root]="tab1Root" tabTitle="Home" tabIcon="home"></ion-tab>\n\n  <ion-tab [root]="tab2Root" tabTitle="More music" tabIcon="musical-note"></ion-tab>\n\n  <ion-tab [root]="tab3Root" tabTitle="Contact" tabIcon="contacts"></ion-tab>\n\n</ion-tabs>\n\n'/*ion-inline-end:"C:\Users\ariel\Projects\ionic-audio-demo\src\pages\tabs\tabs.html"*/
+    }),
+    __metadata("design:paramtypes", [])
+], TabsPage);
+
+//# sourceMappingURL=tabs.js.map
+
+/***/ }),
+
+/***/ 195:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return HomePage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(33);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+var HomePage = (function () {
+    function HomePage(navCtrl, _cdRef) {
+        this.navCtrl = navCtrl;
+        this._cdRef = _cdRef;
+        this.playlist = [];
+        this.currentIndex = -1;
+        // plugin won't preload data by default, unless preload property is defined within json object - defaults to 'none'
+        this.myTracks = [{
+                src: 'https://archive.org/download/JM2013-10-05.flac16/V0/jm2013-10-05-t12-MP3-V0.mp3',
+                artist: 'John Mayer',
+                title: 'Why Georgia',
+                art: 'assets/img/johnmayer.jpg',
+                preload: 'metadata' // tell the plugin to preload metadata such as duration for this track, set to 'none' to turn off
+            },
+            {
+                src: 'https://archive.org/download/JM2013-10-05.flac16/V0/jm2013-10-05-t30-MP3-V0.mp3',
+                artist: 'John Mayer',
+                title: 'Who Says',
+                art: 'assets/img/johnmayer.jpg',
+                preload: 'metadata' // tell the plugin to preload metadata such as duration for this track,  set to 'none' to turn off
+            },
+            {
+                src: 'https://archive.org/download/swrembel2010-03-07.tlm170.flac16/swrembel2010-03-07s1t05.mp3',
+                artist: 'Stephane Wrembel',
+                title: 'Stephane Wrembel Live',
+                art: 'assets/img/Stephane.jpg',
+                preload: 'metadata' // tell the plugin to preload metadata such as duration for this track,  set to 'none' to turn off
+            }];
+    }
+    HomePage.prototype.add = function (track) {
+        this.playlist.push(track);
+    };
+    HomePage.prototype.play = function (track, index) {
+        this.currentTrack = track;
+        this.currentIndex = index;
+    };
+    HomePage.prototype.next = function () {
+        // if there is a next track on the list play it
+        if (this.playlist.length > 0 && this.currentIndex >= 0 && this.currentIndex < this.playlist.length - 1) {
+            var i = this.currentIndex + 1;
+            var track = this.playlist[i];
+            this.play(track, i);
+            this._cdRef.detectChanges(); // needed to ensure UI update
+        }
+        else if (this.currentIndex == -1 && this.playlist.length > 0) {
+            // if no track is playing then start with the first track on the list
+            this.play(this.playlist[0], 0);
+        }
+    };
+    HomePage.prototype.onTrackFinished = function (track) {
+        this.next();
+    };
+    HomePage.prototype.clear = function () {
+        this.playlist = [];
+    };
+    return HomePage;
+}());
+HomePage = __decorate([
+    Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
+        selector: 'page-home',template:/*ion-inline-start:"C:\Users\ariel\Projects\ionic-audio-demo\src\pages\home\home.html"*/'<ion-header>\n\n  <ion-navbar>\n\n    <ion-title>Home</ion-title>\n\n  </ion-navbar>\n\n</ion-header>\n\n\n\n<ion-content padding>\n\n  <h2>Ionic Audio for Angular 4 / Ionic 3</h2>\n\n  <p>\n\n    This sample project shows you how simple it is to work with the ionic-audio module.\n\n  </p>\n\n\n\n  <ion-list>\n\n    <ion-item *ngFor="let track of myTracks">\n\n      <ion-thumbnail item-left>\n\n        <img src="{{track.art}}">\n\n      </ion-thumbnail>\n\n      <h2>{{track.title}}</h2>\n\n      <button ion-button (click)="currentTrack = track">Play</button><button ion-button (click)="add(track)">Add</button>\n\n    </ion-item>\n\n  </ion-list>\n\n\n\n  <audio-track #audioTrack [track]="currentTrack" [autoplay]="true" (onFinish)="onTrackFinished($event)">\n\n    <div style="display: flex">\n\n      <button ion-button icon-only (click)="audioTrack.canPlay ? audioTrack.play() : next()"><ion-icon name="play"></ion-icon></button>\n\n      <button ion-button icon-only (click)="audioTrack.pause()"><ion-icon name="pause"></ion-icon></button>\n\n      <button ion-button icon-only (click)="next()"><ion-icon name="skip-forward"></ion-icon></button>\n\n      <audio-track-progress-bar duration progress [audioTrack]="audioTrack" style="width: 100%; margin: 0 10px"></audio-track-progress-bar>\n\n    </div>\n\n    <div style="display: flex; justify-content: center; height: 50px">\n\n      <div *ngIf="audioTrack && audioTrack.hasLoaded"><em>{{ audioTrack?.title }}</em></div>\n\n      <ion-spinner *ngIf="audioTrack && audioTrack.isLoading"></ion-spinner>\n\n    </div>\n\n  </audio-track>\n\n\n\n  <ion-list *ngIf="playlist.length > 0">\n\n    <ion-list-header no-lines inset>\n\n      PLAYLIST\n\n      <button ion-button clear item-right (click)="clear()">Clear</button>\n\n    </ion-list-header>\n\n    <ion-item *ngFor="let track of playlist; let i = index">\n\n      <h2>{{ track.title }}</h2>\n\n      <p>{{ track.artist }}</p>\n\n      <button ion-button icon-only item-end (click)="play(track, i)">\n\n          <ion-icon name="play"></ion-icon>\n\n        </button>\n\n    </ion-item>\n\n  </ion-list>\n\n\n\n</ion-content>'/*ion-inline-end:"C:\Users\ariel\Projects\ionic-audio-demo\src\pages\home\home.html"*/
+    }),
+    __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["d" /* NavController */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["k" /* ChangeDetectorRef */]])
+], HomePage);
+
+//# sourceMappingURL=home.js.map
+
+/***/ }),
+
+/***/ 196:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AboutPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_audio__ = __webpack_require__(197);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+var AboutPage = (function () {
+    function AboutPage(_audioProvider) {
+        this._audioProvider = _audioProvider;
+        this.myTracks = [{
+                src: 'https://archive.org/download/JM2013-10-05.flac16/V0/jm2013-10-05-t12-MP3-V0.mp3',
+                artist: 'John Mayer',
+                title: 'Why Georgia',
+                art: 'assets/img/johnmayer.jpg',
+                preload: 'metadata' // tell the plugin to preload metadata such as duration for this track, set to 'none' to turn off
+            },
+            {
+                src: 'https://archive.org/download/JM2013-10-05.flac16/V0/jm2013-10-05-t30-MP3-V0.mp3',
+                artist: 'John Mayer',
+                title: 'Who Says',
+                art: 'assets/img/johnmayer.jpg',
+                preload: 'metadata' // tell the plugin to preload metadata such as duration for this track,  set to 'none' to turn off
+            },
+            {
+                src: 'https://archive.org/download/swrembel2010-03-07.tlm170.flac16/swrembel2010-03-07s1t05.mp3',
+                artist: 'Stephane Wrembel',
+                title: 'Stephane Wrembel Live',
+                art: 'assets/img/Stephane.jpg',
+                preload: 'metadata' // tell the plugin to preload metadata such as duration for this track,  set to 'none' to turn off
+            }];
+    }
+    AboutPage.prototype.ngAfterContentInit = function () {
+        // get all tracks managed by AudioProvider so we can control playback via the API
+        this.allTracks = this._audioProvider.tracks;
+    };
+    AboutPage.prototype.playSelectedTrack = function () {
+        // use AudioProvider to control selected track 
+        this._audioProvider.play(this.selectedTrack);
+    };
+    AboutPage.prototype.pauseSelectedTrack = function () {
+        // use AudioProvider to control selected track 
+        this._audioProvider.pause(this.selectedTrack);
+    };
+    return AboutPage;
+}());
+AboutPage = __decorate([
+    Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
+        selector: 'page-about',template:/*ion-inline-start:"C:\Users\ariel\Projects\ionic-audio-demo\src\pages\about\about.html"*/'<ion-header>\n\n  <ion-navbar>\n\n    <ion-title>\n\n      More music\n\n    </ion-title>\n\n  </ion-navbar>\n\n</ion-header>\n\n\n\n<ion-content padding>\n\n  <ion-list>\n\n    <audio-track #audio *ngFor="let track of myTracks" [track]="track">\n\n      <ion-item>\n\n        <ion-thumbnail item-left>\n\n          <img src="{{audio.art}}">\n\n          <audio-track-play dark [audioTrack]="audio">\n\n            <ion-spinner></ion-spinner>\n\n          </audio-track-play>\n\n        </ion-thumbnail>\n\n        <div item-content style="width:100%">\n\n          <p><strong>{{audio.title}}</strong> &#x26AC; <em>{{audio.artist}}</em></p>\n\n          <audio-track-progress-bar duration progress [audioTrack]="audio"></audio-track-progress-bar>\n\n          <em style="font-size:.5em">Track ID: {{audio.id}}</em>\n\n        </div>\n\n      </ion-item>\n\n    </audio-track>\n\n  </ion-list>\n\n\n\n  <h3>API Usage</h3>\n\n  <h4>Using AudioProvider to control playback</h4>\n\n  <ion-list>\n\n    <ion-item>\n\n      <ion-label>Select track to play</ion-label>\n\n      <ion-select [(ngModel)]="selectedTrack">\n\n        <ion-option *ngFor="let track of allTracks" value="{{track.id}}">{{track.title}}</ion-option>\n\n      </ion-select>\n\n    </ion-item>\n\n  </ion-list>\n\n  <button ion-button block outline (click)="playSelectedTrack()">Play</button>\n\n  <button ion-button block outline color="secondary" (click)="pauseSelectedTrack()">Pause</button>\n\n</ion-content>'/*ion-inline-end:"C:\Users\ariel\Projects\ionic-audio-demo\src\pages\about\about.html"*/
+    }),
+    __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_audio__["a" /* AudioProvider */]])
+], AboutPage);
+
+//# sourceMappingURL=about.js.map
+
+/***/ }),
+
+/***/ 203:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ContactPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(33);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+var ContactPage = (function () {
+    function ContactPage(navCtrl) {
+        this.navCtrl = navCtrl;
+    }
+    return ContactPage;
+}());
+ContactPage = __decorate([
+    Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
+        selector: 'page-contact',template:/*ion-inline-start:"C:\Users\ariel\Projects\ionic-audio-demo\src\pages\contact\contact.html"*/'<ion-header>\n  <ion-navbar>\n    <ion-title>\n      Contact\n    </ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content>\n  <ion-list>\n    <ion-list-header>Follow us on Twitter</ion-list-header>\n    <ion-item>\n      <ion-icon name="ionic" item-left></ion-icon>\n      @ionicframework\n    </ion-item>\n  </ion-list>\n</ion-content>\n'/*ion-inline-end:"C:\Users\ariel\Projects\ionic-audio-demo\src\pages\contact\contact.html"*/
+    }),
+    __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["d" /* NavController */]])
+], ContactPage);
+
+//# sourceMappingURL=contact.js.map
+
+/***/ }),
+
+/***/ 204:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__ = __webpack_require__(205);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__app_module__ = __webpack_require__(223);
+
+
+Object(__WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__["a" /* platformBrowserDynamic */])().bootstrapModule(__WEBPACK_IMPORTED_MODULE_1__app_module__["a" /* AppModule */]);
+//# sourceMappingURL=main.js.map
+
+/***/ }),
+
+/***/ 223:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* unused harmony export myCustomAudioProviderFactory */
+/* unused harmony export providers */
+/* unused harmony export entryComponents */
+/* unused harmony export declarations */
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AppModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(33);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ionic_native_splash_screen__ = __webpack_require__(190);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__ionic_native_status_bar__ = __webpack_require__(193);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__ = __webpack_require__(28);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__app_component__ = __webpack_require__(272);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__pages_about_about__ = __webpack_require__(196);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__pages_contact_contact__ = __webpack_require__(203);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__pages_home_home__ = __webpack_require__(195);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__pages_tabs_tabs__ = __webpack_require__(194);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_ionic_audio__ = __webpack_require__(197);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+
+
+
+
+
+
+
+var pages = [
+    __WEBPACK_IMPORTED_MODULE_5__app_component__["a" /* MyApp */],
+    __WEBPACK_IMPORTED_MODULE_6__pages_about_about__["a" /* AboutPage */],
+    __WEBPACK_IMPORTED_MODULE_7__pages_contact_contact__["a" /* ContactPage */],
+    __WEBPACK_IMPORTED_MODULE_8__pages_home_home__["a" /* HomePage */],
+    __WEBPACK_IMPORTED_MODULE_9__pages_tabs_tabs__["a" /* TabsPage */]
+];
+/**
+ * Sample custom factory function to use with ionic-audio
+ */
+function myCustomAudioProviderFactory() {
+    return (window.hasOwnProperty('cordova')) ? new __WEBPACK_IMPORTED_MODULE_10_ionic_audio__["b" /* CordovaMediaProvider */]() : new __WEBPACK_IMPORTED_MODULE_10_ionic_audio__["d" /* WebAudioProvider */]();
+}
+function providers() {
+    return [
+        { provide: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* ErrorHandler */], useClass: __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["b" /* IonicErrorHandler */] },
+        __WEBPACK_IMPORTED_MODULE_2__ionic_native_splash_screen__["a" /* SplashScreen */],
+        __WEBPACK_IMPORTED_MODULE_3__ionic_native_status_bar__["a" /* StatusBar */]
+    ];
+}
+function entryComponents() {
+    return pages;
+}
+function declarations() {
+    return pages;
+}
+var AppModule = (function () {
+    function AppModule() {
+    }
+    return AppModule;
+}());
+AppModule = __decorate([
+    Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["L" /* NgModule */])({
+        declarations: declarations(),
+        imports: [
+            __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["a" /* BrowserModule */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["c" /* IonicModule */].forRoot(__WEBPACK_IMPORTED_MODULE_5__app_component__["a" /* MyApp */]),
+            __WEBPACK_IMPORTED_MODULE_10_ionic_audio__["c" /* IonicAudioModule */].forRoot(__WEBPACK_IMPORTED_MODULE_10_ionic_audio__["e" /* defaultAudioProviderFactory */]),
+        ],
+        bootstrap: [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["a" /* IonicApp */]],
+        entryComponents: entryComponents(),
+        providers: providers(),
+        schemas: [__WEBPACK_IMPORTED_MODULE_0__angular_core__["i" /* CUSTOM_ELEMENTS_SCHEMA */]]
+    })
+], AppModule);
+
+//# sourceMappingURL=app.module.js.map
+
+/***/ }),
+
+/***/ 272:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return MyApp; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(33);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ionic_native_splash_screen__ = __webpack_require__(190);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__ionic_native_status_bar__ = __webpack_require__(193);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__pages_tabs_tabs__ = __webpack_require__(194);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+var MyApp = (function () {
+    function MyApp(platform, splashScreen, statusBar) {
+        this.rootPage = __WEBPACK_IMPORTED_MODULE_4__pages_tabs_tabs__["a" /* TabsPage */];
+        platform.ready().then(function () {
+            // Okay, so the platform is ready and our plugins are available.
+            // Here you can do any higher level native things you might need.
+            statusBar.styleDefault();
+            splashScreen.hide();
+        });
+    }
+    return MyApp;
+}());
+MyApp = __decorate([
+    Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"C:\Users\ariel\Projects\ionic-audio-demo\src\app\app.html"*/'<ion-nav [root]="rootPage"></ion-nav>\n'/*ion-inline-end:"C:\Users\ariel\Projects\ionic-audio-demo\src\app\app.html"*/
+    }),
+    __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["e" /* Platform */], __WEBPACK_IMPORTED_MODULE_2__ionic_native_splash_screen__["a" /* SplashScreen */], __WEBPACK_IMPORTED_MODULE_3__ionic_native_status_bar__["a" /* StatusBar */]])
+], MyApp);
+
+//# sourceMappingURL=app.component.js.map
+
+/***/ })
+
+},[204]);
+//# sourceMappingURL=main.js.map

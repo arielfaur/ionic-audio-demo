@@ -2,7 +2,7 @@ import { Component, ChangeDetectorRef } from '@angular/core';
 
 import { NavController } from 'ionic-angular';
 
-import { AudioProvider, IAudioTrack, ITrackConstraint } from 'ionic-audio';
+import { ITrackConstraint } from 'ionic-audio';
 
 @Component({
   selector: 'page-home',
